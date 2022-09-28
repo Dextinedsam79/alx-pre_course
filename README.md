@@ -1,1 +1,1 @@
-my first readme
+This is an amended readme file
